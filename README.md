@@ -1,1 +1,2 @@
-This contact book was my first Solidity assignment at USC.
+# Contact Book
+First solidity project: A contact book where anyone can hold a list of addresses as their contacts.
